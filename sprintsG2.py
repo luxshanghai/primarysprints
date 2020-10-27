@@ -1,4 +1,4 @@
-#Primary G2 Sprint Luxury
+#Primary G2 Sprint Lux2019
 
 import random as rd
 a = 0
